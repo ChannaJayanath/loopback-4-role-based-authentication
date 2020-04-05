@@ -1,0 +1,11 @@
+{
+  "name": "mongo",
+  "connector": "mongodb",
+  "url": "",
+  "host": "working.lk",
+  "port": 8081,
+  "user": "",
+  "password": "",
+  "database": "lb4roles",
+  "useNewUrlParser": true
+}
