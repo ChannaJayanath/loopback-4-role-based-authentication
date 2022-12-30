@@ -75,7 +75,7 @@
     "yaml": "1.8.3"
   },
   "devDependencies": {
-    "@loopback/build": "^5.0.0",
+    "@loopback/build": "^5.4.3",
     "source-map-support": "^0.5.16",
     "@loopback/testlab": "^2.0.2",
     "@types/bcryptjs": "2.4.2",
@@ -91,7 +91,7 @@
     "eslint-config-prettier": "^6.10.1",
     "eslint-plugin-eslint-plugin": "^2.2.1",
     "eslint-plugin-mocha": "^6.3.0",
-    "mocha": "7.1.1",
+    "mocha": "10.2.0",
     "typescript": "~3.8.3"
   }
 }
